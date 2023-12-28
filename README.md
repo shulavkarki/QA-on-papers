@@ -2,7 +2,7 @@
 A conversational system that reads text from a PDF file, performs text embedding using a sentence transformer model, conducts a search based on user input, and generates responses using text generation models 
 
 ## Depedencies
-
+- Micromamba
 - Python 3.10
 - Required libraries: pdfminer, sentence-transformers
 
