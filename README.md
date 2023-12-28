@@ -1,4 +1,4 @@
-# Text Classifcation using BERT
+# QA on Papers
 A conversational system that reads text from a PDF file, performs text embedding using a sentence transformer model, conducts a search based on user input, and generates responses using text generation models 
 
 ## Depedencies
